@@ -1,0 +1,38 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    height: 4.813rem;
+    position: sticky;
+    z-index: 20;
+    top: 0px;
+
+    background: #6B3CC9;
+}
+.navbar-nav{
+    padding-left: 40rem !important;
+}
+
+.me-auto {
+    
+    display: flex;
+    flex-direction: row;
+    /* align-items: flex-start; */
+    /* padding: 0px; */
+    /* gap: 28px; */
+
+    /* width: 381px;
+    height: 17px; */
+}
+
+.nav-link {
+    font-family: 'Inter' !important ;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 0.875rem !important;
+    line-height: 17px !important;
+    color: #FFFFFF !important;
+}
+
